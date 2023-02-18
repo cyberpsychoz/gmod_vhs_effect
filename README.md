@@ -1,4 +1,4 @@
-# VHS Effect Ver 0.3
+# VHS Effect Ver 0.3.1 (I'll fuck it)
 Just simple VHS effect script.
 
 This script creates a new effect called "VHSEffect" and applies it to the player's screen when they spawn. 
